@@ -1,2 +1,2 @@
-# codeeval_challenges
-My solutions to some challenges in CodeEval
+# Code Hack
+Solutions to some coding challenges
